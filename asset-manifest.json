@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/codeking-mike/animate-error-page/static/css/main.860772d3.css",
+    "main.js": "/codeking-mike/animate-error-page/static/js/main.c3740880.js",
+    "index.html": "/codeking-mike/animate-error-page/index.html",
+    "main.860772d3.css.map": "/codeking-mike/animate-error-page/static/css/main.860772d3.css.map",
+    "main.c3740880.js.map": "/codeking-mike/animate-error-page/static/js/main.c3740880.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.860772d3.css",
+    "static/js/main.c3740880.js"
+  ]
+}
